@@ -120,4 +120,4 @@ print('The ciphertext is ' + ciptxt + '.')
 
 message_or = des(ciptxt, k[::-1])
 print('Plaintext block: 0x' + message_or)
-print('The plaintext is still ' + message_or + '.')
+print('The message is still ' + message_or + '.')
