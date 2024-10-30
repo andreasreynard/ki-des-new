@@ -1,3 +1,5 @@
+# Tugas 1 yang lebih terupdate:
+
 def des(message, k):
     # Convert to binary with length 65 for ease
     message = bin(int(message, 16))[2:]
